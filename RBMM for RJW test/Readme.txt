@@ -1,6 +1,6 @@
 1. This mod is not completed and still under tests. Prepare to face any problems. 
 
-2. This mod is currently based on body of Aya races. Any other body type will face texture problems.
+2. This mod is currently based on body of Aya races/Miho/Moosesian. Any other body type will face texture problems.
 
 3. This mod contains weird kinks based on the author's preferences such as expansion and piercings to holes (not only usual ones) on the body. Use this with caution.
 
