@@ -11,10 +11,3 @@
 
 
 ------------------------------------------------------------------------------------------------------
-How to use:
-
-1. Change the suffix to .zip.
-
-2. Extract it, twice.
-
-3. Enjoy, as you do with other rjw mods.
